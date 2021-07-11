@@ -4,9 +4,12 @@
 ## 分为GUI(图形界面)和CLI(cmd窗口)版  
 &nbsp;
 ### GUI版：
+    ![GUI Start.jpg](pic/GUI%20start.png)
     1. 运行GUI.py
-    2. 输入你的身高
-    3. 点击计算按钮
+    ![Iput.jpg](Pic/Input.png)
+    1. 输入你的身高
+    ![Calc.jpg](Pic/Calc.png)
+    2. 点击计算按钮
 
 ### CLI版：
     1. 在当前目录打开cmd
